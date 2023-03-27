@@ -5,8 +5,8 @@ The function takes a format string as input, which specifies how the output shou
 
 **Compilation**
 
--All our files are compiled on Ubuntu 20.04 LTS using 
--Our code is compiled this way:🤪
++All our files are compiled on Ubuntu 20.04 LTS using 
++Our code is compiled this way 👇
 
 **_$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c_**
 
